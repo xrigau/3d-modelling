@@ -1,4 +1,4 @@
-#3d-modelling
+# 3d-modelling
 
 A collection of things I design for 3D-printing purposes.
 
